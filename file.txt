@@ -1,4 +1,4 @@
-checking forcepush
+.checking forcepush
 ok
 looks fine.
 smart commit
