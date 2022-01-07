@@ -1,3 +1,4 @@
 checking forcepush
 ok
 looks fine
+smart commit
